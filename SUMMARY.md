@@ -2,6 +2,14 @@
 
 * [Welcome](README.md)
 
+## Whitepaper
+
+* [Page 1](whitepaper/page-1.md)
+
+***
+
+* [Page](page.md)
+
 ## Getting Started
 
 * [Quickstart](getting-started/quickstart.md)
